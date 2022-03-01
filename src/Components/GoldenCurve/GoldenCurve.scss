@@ -1,0 +1,13 @@
+.canvasDiv{
+    background-image: linear-gradient(gold, yellow, gold);
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.CanvasGraph{
+    display: flex;
+    flex-direction: column;
+    overflow: scroll;
+    // background-color: black;
+}
